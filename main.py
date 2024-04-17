@@ -11,6 +11,3 @@ if (red < 0 or red > 255):
             print("Blue number is not correct")
 else:
     print("No problems found!")
-
-
-
